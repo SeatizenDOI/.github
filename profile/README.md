@@ -1,4 +1,4 @@
-# [Ifremer Délegation Océan Indien](https://ocean-indien.ifremer.fr/)
+# [Ifremer DOI](https://ocean-indien.ifremer.fr/)
 
 ## [Plancha project](https://ocean-indien.ifremer.fr/en/Projects/Technological-innovations/PLANCHA-2021-2023)
 
