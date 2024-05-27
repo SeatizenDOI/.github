@@ -2,7 +2,7 @@
 
 ## [Plancha project](https://ocean-indien.ifremer.fr/en/Projects/Technological-innovations/PLANCHA-2021-2023)
 
-The main objective of the Plancha project(Planche instrumentée pour l'évaluation de l'état de santé des Habitats récifaux de la biodiversité associée par ADNe) is to map the bathymetry and major morphotype classes (according to scenario 2 of the [Global Coral Reef Monitoring Network](https://gcrmn.net/)) for the back reef depressions and outer slopes of Reunion Island.
+The main objective of the Plancha project (Planche instrumentée pour l'évaluation de l'état de santé des Habitats récifaux de la biodiversité associée par ADNe) is to map the bathymetry and major morphotype classes (according to scenario 2 of the [Global Coral Reef Monitoring Network](https://gcrmn.net/)) for the back reef depressions and outer slopes of Reunion Island.
 
 Acquiring data on coral ecosystems is a major challenge in the context of global change and the impacts of rising ocean temperatures and acidification, as well as increasing anthropogenic pressures. The ability to monitor these ecosystems is either via regular scientific monitoring along transects by divers, and therefore very localized, or by telemetry tools (drones, aerial tracking, satellite) which are either expensive or unable to produce a fine-scale estimate of habitat modifications.
 
