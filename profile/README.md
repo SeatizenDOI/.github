@@ -30,3 +30,7 @@ The raw data are processed by [plancha-workflow](https://github.com/SeatizenDOI/
 
 If you want to visualize the predictions, you can load the plancha-session into fiftyone with [fiftyone-tools](https://github.com/SeatizenDOI/fiftyone-tools).
 You can also upload the data to zenodo with [zenodo-tools](https://github.com/SeatizenDOI/zenodo-tools).
+
+<div align="center">
+  <img src="../images/logo_partenaire.png" alt="Partenaire logo" width="700">
+</div>
