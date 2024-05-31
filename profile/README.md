@@ -32,5 +32,5 @@ If you want to visualize the predictions, you can load the plancha-session into 
 You can also upload the data to zenodo with [zenodo-tools](https://github.com/SeatizenDOI/zenodo-tools).
 
 <div align="center">
-  <img src="https://github.com/SeatizenDOI/.github/blob/main/images/logo_partenaire.png?raw=True" alt="Partenaire logo" width="700">
+  <img src="https://github.com/SeatizenDOI/.github/blob/main/images/logo_partenaire_2.png?raw=True" alt="Partenaire logo" width="700">
 </div>
